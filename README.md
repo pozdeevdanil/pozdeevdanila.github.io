@@ -21,6 +21,5 @@
 [Урок 9](https://pozdeevdanila.github.io/lesson_9/ "Описание")
 
 
-[Урок 12](https://pozdeevdanila.github.io/lesson_12/ "Описание")
+[Урок 12](https://pozdeevdanila.github.io/lesson_12/ "Описание")[Модуль 5. Практика. Часть 1.](https://pozdeevdanila.github.io/lesson_15/ "Описание")
 
-[Урок 10](https://pozdeevdanila.github.io/lesson_15/ "Описание")
