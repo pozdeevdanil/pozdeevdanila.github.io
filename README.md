@@ -27,3 +27,4 @@
 [Модуль 5. Практика. Часть 2.Подключение шрифтов. Верстка первого экрана.](https://pozdeevdanila.github.io/lessson_19/ "Описание")
 
 
+[Модуль 5. Урок № 15](https://pozdeevdanila.github.io/lesson_20/ "Описание")
