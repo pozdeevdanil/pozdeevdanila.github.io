@@ -35,3 +35,4 @@
 
 [Модуль 5. Практика. Часть 4.](https://pozdeevdanila.github.io/lesson_24/ "Описание")
 
+[Модуль 5. Урок № 17](https://pozdeevdanila.github.io/lesson_25/ "Описание")
