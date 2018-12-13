@@ -1,0 +1,237 @@
+/*family*/
+@font-face {
+  font-family: 'ProximaNova_reg';
+  src: url('../fonts/ProximaNova-Regular.eot');
+  src: url('../fonts/ProximaNova-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/ProximaNova-Regular.woff2') format('woff2'), url('../fonts/ProximaNova-Regular.woff') format('woff'), url('../fonts/ProximaNova-Regular.ttf') format('truetype'), url('../fonts/ProximaNova-Regular.svg#ProximaNova-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ProximaNova_bold';
+  src: url('../fonts/ProximaNova-Bold.eot');
+  src: url('../fonts/ProximaNova-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/ProximaNova-Bold.woff2') format('woff2'), url('../fonts/ProximaNova-Bold.woff') format('woff'), url('../fonts/ProximaNova-Bold.ttf') format('truetype'), url('../fonts/ProximaNova-Bold.svg#ProximaNova-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+/* colors */
+/* Basic setting */
+html {
+  font-size: 10px;
+}
+/*Typography */
+body {
+  font-family: 'ProximaNova_reg', sans-serif;
+  margin: 0px;
+  padding: 0;
+}
+.main {
+  padding: 3rem 0 5rem;
+  background: #ffffff url(../img/main-bg.jpg) center center no-repeat;
+  background-size: cover;
+  /*2 раздел*/
+  /*все под контент */
+  /*p*/
+  /*span*/
+}
+.main-content {
+  margin-top: 10rem;
+  /*zagolovoc*/
+}
+.main-content h1 {
+  font-family: 'ProximaNova_bold', sans-serif;
+  font-size: 4rem;
+  text-transform: uppercase;
+  margin-bottom: 6rem;
+  line-height: 1.45;
+}
+.main-subtitle {
+  font-size: 2.4rem;
+  margin-bottom: 6rem;
+}
+.main span {
+  display: inline-block;
+  padding: 2rem 4rem;
+  background-color: #70c849;
+  color: #ffffff;
+  font-size: 1.8rem;
+  text-align: center;
+}
+.main span strong {
+  font-size: 3rem;
+  font-family: 'ProximaNova_bold', sans-serif;
+}
+.header {
+  height: 7rem;
+}
+.phone {
+  font-family: 'ProximaNova_bold', sans-serif;
+  font-size: 2rem;
+  height: 7rem;
+  display: inline-block;
+  line-height: 7rem;
+  color: #000000;
+  text-decoration: none;
+}
+/* colors */
+.wrap {
+  display: table;
+  width: 100%;
+  height: 7rem;
+}
+.wrap-block {
+  display: table-cell;
+  vertical-align: middle;
+}
+.button {
+  padding: 1rem 3rem;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  background-color: #fbb203;
+  color: #ffffff;
+  text-transform: uppercase;
+  border: none;
+  -webkit-transition: all 0,2s;
+  transition: all 0,2s;
+}
+.text_2 {
+  font-family: 'ProximaNova_bold', sans-serif;
+  font-size: 22px;
+  margin-top: 3rem;
+  text-transform: uppercase;
+}
+/*Главная форма*/
+.main-form {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 4rem 5rem;
+}
+.form-zagolovoc {
+  font-size: 1.8rem;
+  margin-bottom: 4rem;
+}
+.form-zagolovoc strong {
+  font-size: 1.8rem;
+  font-family: 'ProximaNova_bold', sans-serif;
+}
+.form-input {
+  display: block;
+  margin: 2rem 0;
+  width: 100%;
+  border: 1px solid #dddddd;
+  padding: 1.5rem;
+}
+label {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+          transform: translateX(-50%) translateY(-50%);
+  padding: 0.5rem;
+  background-color: #ffffff;
+}
+/*Кнопка отправить */
+.form-button {
+  display: inline-block;
+  width: 100%;
+  height: 6.5rem;
+  text-transform: uppercase;
+  font-size: 1.6rem;
+}
+small {
+  display: block;
+  font-size: 1.2rem;
+  margin-top: 1.7rem;
+}
+.button:hover {
+  cursor: pointer;
+  background-color: #df9e01;
+}
+a:hover {
+  text-decoration: none;
+}
+button,
+input,
+a:focus {
+  outline: none;
+}
+/*Оформление блока с преймуществами*/
+section {
+  padding: 10rem 0;
+}
+.section-header {
+  font-size: 3.6rem;
+  font-family: 'ProximaNova_bold', sans-serif;
+  text-align: center;
+  margin-bottom: 13rem;
+}
+.features-block {
+  text-align: center;
+}
+.featurse-img img {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 7rem;
+}
+.features-block h3 {
+  font-size: 2rem;
+  font-family: 'ProximaNova_bold', sans-serif;
+  margin-bottom: 4rem;
+}
+.features-block p {
+  font-size: 1.4rem;
+  font-family: 'ProximaNova_reg', sans-serif;
+  margin-bottom: 15rem;
+  display: inline-block;
+  width: 80%;
+}
+.a {
+  color: green;
+}
+.slick-active {
+  outline: none;
+}
+.arrow {
+  position: absolute;
+  z-index: 99;
+  width: 2rem;
+  height: 2rem;
+  border: none;
+  background-size: 70%;
+  top: 30%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+.prev {
+  left: 0;
+  background: url(../img/advantages/left-switch.png);
+}
+.next {
+  right: 0;
+  background: url(../img/advantages/right-switch.png);
+}
+@media (max-width: 991px) {
+  .main {
+    background-position: top right;
+  }
+  .header {
+    text-align: center;
+  }
+  .main-content {
+    margin-top: 3rem;
+  }
+  .main-title {
+    text-align: center;
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .main-content {
+    padding-top: 100px;
+  }
+  .logo,
+  .phone {
+    margin-bottom: 50px;
+  }
+  .form {
+    margin-top: 20px;
+  }
+}
