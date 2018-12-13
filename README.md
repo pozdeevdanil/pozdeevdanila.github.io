@@ -33,3 +33,5 @@
 
 [Урок 22](https://pozdeevdanila.github.io/lesson_23/ "Описание")
 
+[Модуль 5. Практика. Часть 4.](https://pozdeevdanila.github.io/lesson_24/ "Описание")
+
