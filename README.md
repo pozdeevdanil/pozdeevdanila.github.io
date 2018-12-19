@@ -39,3 +39,8 @@
 
 
 [Урок № 25](https://pozdeevdanila.github.io/lesson_26/ "Описание")
+
+
+
+
+[Урок № 27](https://pozdeevdanila.github.io/lesson_27_1/ "Описание")
