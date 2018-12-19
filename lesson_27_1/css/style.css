@@ -1,0 +1,68 @@
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:focus,
+.nav-tabs > li.active > a:hover {
+  background-color: #03a5db;
+  width: 10rem;
+  height: 4rem;
+  margin-left: 3rem;
+}
+.nav-tabs {
+  border-bottom: none;
+}
+.form {
+  width: 60rem;
+  height: 35rem;
+  background-color: black;
+  border: 2rem solid #03a4d9;
+  border-radius: 0.8rem;
+}
+.tab_p {
+  color: #c51f03;
+  font-size: 1.5rem;
+  margin-left: 3rem;
+  margin-bottom: 2rem;
+}
+.pr {
+  display: block;
+  width: 50rem;
+  height: 6rem;
+  background-color: #1a1919;
+  border: none;
+  margin-left: 3rem;
+  font-size: 2.4rem;
+  font-weight: 900;
+  text-align: left;
+}
+.pr_1 {
+  margin-top: 6rem;
+  margin-bottom: 2.5rem;
+}
+.pr_2 {
+  margin-bottom: 2rem;
+}
+input {
+  color: #ffffff;
+}
+.tab_foto {
+  margin-left: 75%;
+}
+.radio {
+  position: absolute;
+  left: 440px;
+}
+small {
+  margin-left: 5rem;
+}
+.tabbb {
+  margin-bottom: 30rem;
+}
+.container_2 {
+  margin-top: 20rem;
+}
+.panel-default > .panel-heading {
+  background-color: #0bbaf0;
+}
+.panel-title {
+  color: #ffffff;
+  font-size: 18px;
+}
