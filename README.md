@@ -47,3 +47,5 @@
 
 [Урок № 28](https://pozdeevdanila.github.io/lesson_28/ "Описание")
 [Урок № 29](https://pozdeevdanila.github.io/lesson_29/ "Описание")
+
+[Урок № 29](https://pozdeevdanila.github.io/lesson_30/ "Описание")
