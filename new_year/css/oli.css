@@ -72,6 +72,20 @@ body{
 
 }
 
+@media (max-width:767px) {
+  .ded_foto{
+  	max-width: 300px;
+  }
+
+  .slow_one{
+  	width:400px;
+  }
+
+    .slow_two{
+  	width:400px;
+  }
+
+}
 
 
 /*font-family: 'Staatliches', cursive;*/
