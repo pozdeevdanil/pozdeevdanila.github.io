@@ -1,0 +1,77 @@
+.box{
+	width:100px;
+	height: 100px;
+	background-color:red;
+}
+
+
+body{
+
+	text-align:center;
+}
+
+.sam{
+	background-image:url(../img_new/new_year_fon.jpg);
+    background-size:100%;
+    width:100%;
+    height: 1100px;
+}
+
+.bells{
+	margin-top:10rem;
+}
+
+	.bells p{
+	font-family: 'Staatliches', cursive;
+	color:#ffffff;
+	font-size: 1.6rem;
+	margin-top:2rem;
+    
+}
+
+.text{
+	margin-top:10rem;
+	color: #ffffff;
+	font-family: 'Permanent Marker', cursive;
+	font-style:oblique;
+}
+
+.text_1{
+	font-size: 30px;
+   
+}
+
+.text_2{
+	font-size:35px;
+	text-transform:uppercase;
+}
+
+
+.ded{
+	position:absolute;
+	bottom: 0;
+}
+
+
+.slow{
+	margin-top:1.5rem;
+	position: relative;
+	height:18.3rem;
+}
+.slow_one{
+	position:absolute;
+	bottom:0;
+	left: -2rem;
+	right: 0;
+}
+
+.slow_two{
+	position:absolute;
+	bottom:0;
+     right: -2rem; 
+
+}
+
+
+
+/*font-family: 'Staatliches', cursive;*/
