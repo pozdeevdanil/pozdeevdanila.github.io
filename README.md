@@ -48,4 +48,6 @@
 [Урок № 28](https://pozdeevdanila.github.io/lesson_28/ "Описание")
 [Урок № 29](https://pozdeevdanila.github.io/lesson_29/ "Описание")
 
-[Урок № 29](https://pozdeevdanila.github.io/lesson_30/ "Описание")
+[Урок № 29](https://pozdeevdanila.github.io/lesson_30/ "Описание") 
+
+[Урок № 30](https://pozdeevdanila.github.io/%D0%9F%D1%80%D0%BE%D0%B1%D0%BD%D1%8B%D0%B5%20%D1%83%D1%80%D0%BE%D0%BA%D0%B8/wsp.html/ "Описание") 
