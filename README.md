@@ -54,4 +54,5 @@
 
 
 
-[Модуль 6. Практика. Часть 8.](https://pozdeevdanila.github.io/lesson_31/"Описание")
+
+[Урок № 31](https://pozdeevdanila.github.io/lesson_31/ "Описание")
