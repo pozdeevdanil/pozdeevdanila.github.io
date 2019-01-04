@@ -56,3 +56,6 @@
 
 
 [Урок № 31](https://pozdeevdanila.github.io/lesson_31/ "Описание")
+
+
+[Урок № 33](https://pozdeevdanila.github.io/lesson_33/ "Описание")
