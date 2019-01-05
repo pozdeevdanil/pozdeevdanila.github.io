@@ -59,3 +59,4 @@
 
 
 [Урок № 33](https://pozdeevdanila.github.io/lesson_33/ "Описание")
+[Модуль 6. Урок № 22](https://pozdeevdanila.github.io/lesson_34/wsp.html "Описание")
