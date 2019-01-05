@@ -1,0 +1,41 @@
+.block{
+	height: 480px;
+	background-color:red;
+	text-align: center;
+	color: #ffffff; 
+	font-size: 1.8rem;
+    position: absolute;
+    top: 0; 
+    left: 600px;
+    width: 400px;
+    line-height: 50px;
+}
+
+.block_h2{
+	margin-top: 70px;
+	margin-bottom: ;
+}
+.block a
+{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.dop_block{
+	height:95px;
+	background-color: #e4dada; 
+}
+
+.logo{
+	margin-top: 20px;
+}
+
+.logo_two{
+	margin-top: 4rem;
+	color: #666666;
+	font-size: 14px;
+} 
+
+.logo_three h3{
+   font-weight: 900;
+}
