@@ -1,0 +1,9 @@
+.modal_window {
+  width: 70rem;
+  height: 40rem;
+  background-color: red;
+  display: none;
+}
+.modal_window_active {
+  display: block;
+}
